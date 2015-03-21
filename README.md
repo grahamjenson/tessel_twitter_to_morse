@@ -19,10 +19,9 @@ tessel run twitter_morse_code.js
 
 # Dependencies 
 
-[morsecode](https://www.npmjs.com/package/morsecode)
-[q](https://www.npmjs.com/package/q) ([bluebird](](https://www.npmjs.com/package/bluebird) doesn't work)
-
-[node-twitter](https://www.npmjs.com/package/node-twitter) ( [twitter](https://www.npmjs.com/package/twitter) doesn't work)
+1. [morsecode](https://www.npmjs.com/package/morsecode)
+2. [q](https://www.npmjs.com/package/q) ([bluebird](https://www.npmjs.com/package/bluebird) doesn't work)
+3. [node-twitter](https://www.npmjs.com/package/node-twitter) ( [twitter](https://www.npmjs.com/package/twitter) doesn't work)
 
 ## Changes
 
