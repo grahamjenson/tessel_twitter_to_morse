@@ -1,3 +1,5 @@
+**[Further Project Explination Here](http://www.maori.geek.nz/post/testing_out_the_tessel_with_project_1_twitter_to_morse_code)**
+
 # Getting Started
 
 ```
